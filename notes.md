@@ -23,3 +23,7 @@ git init - initiate - enables folder to understand git commands
 git add . (add the changes in the file.)
 git commit -m "enter what u did some words whatever dont matter" (commits to the changes made and 
 git push (pushes online)
+
+
+random update
+awesome
